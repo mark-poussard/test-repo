@@ -34,7 +34,7 @@ jobs:
       - run: git --version
 
       - name: Deploy
-        uses: mark-poussard/actions-gh-pages@f12fbb48e1b22bce2f37c8448af62454f9965237
+        uses: mark-poussard/actions-gh-pages@8d56e4159d1d222dbc12f6962b55456276ef002a
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
