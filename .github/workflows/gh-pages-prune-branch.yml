@@ -18,6 +18,8 @@ jobs:
         with:
           ref: gh-pages
 
+      - run: ls -la
+
       - run: git rm -r -- branch/${{ github.event.ref }}
       - run: git commit -m "Pruning deleted '${{ github.event.ref }}' branch"
       - run: git push
