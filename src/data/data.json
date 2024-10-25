@@ -1,0 +1,534 @@
+{
+    "creatures": [
+        {
+            "id": 1,
+            "en": "Bulbasaur",
+            "ja": {
+                "romaji": "Fushigidane",
+                "kana": "フシギダネ",
+                "kanji": "不思議種"
+            },
+            "imageUrl": "/assets/creature/1.svg",
+            "tags": [
+                "gen1"
+            ],
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "origin": {
+                "value": "%w means \"mysterious\", and %w means \"seed.\" It translates to \"mysterious seed\". It can also mean %w, \"Isn’t it strange?\".",
+                "words": [
+                    {
+                        "romaji": "\"Fushigi\"",
+                        "kana": "フシギ",
+                        "kanji": "不思議"
+                    },
+                    {
+                        "romaji": "\"dane\"",
+                        "kana": "ダネ",
+                        "kanji": "種"
+                    },
+                    {
+                        "romaji": "\"fushigi da ne ?\"",
+                        "kana": "ふしぎだね?",
+                        "kanji": "不思議だね?"
+                    }
+                ]
+            },
+            "originTags": [
+                "kanji"
+            ]
+        },
+        {
+            "id": 2,
+            "en": "Ivysaur",
+            "ja": {
+                "romaji": "Fushigisou",
+                "kana": "フシギソウ",
+                "kanji": "不思議草"
+            },
+            "imageUrl": "/assets/creature/2.svg",
+            "tags": [
+                "gen1"
+            ],
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "origin": {
+                "value": "%w means \"mysterious\" and %w means \"grass.\" It translates to \"mysterious grass\".",
+                "words": [
+                    {
+                        "romaji": "\"Fushigi\"",
+                        "kana": "フシギ",
+                        "kanji": "不思議"
+                    },
+                    {
+                        "romaji": "\"sou\"",
+                        "kana": "ソウ",
+                        "kanji": "草"
+                    }
+                ]
+            },
+            "originTags": [
+                "kanji"
+            ]
+        },
+        {
+            "id": 3,
+            "en": "Venusaur",
+            "ja": {
+                "romaji": "Fushigibana",
+                "kana": "フシギバナ",
+                "kanji": "不思議花"
+            },
+            "imageUrl": "/assets/creature/3.svg",
+            "tags": [
+                "gen1"
+            ],
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "origin": {
+                "value": "%w means \"mysterious\" and %w means \"flower\". It translates to \"mysterious flower\".",
+                "words": [
+                    {
+                        "romaji": "\"Fushigi\"",
+                        "kana": "フシギ",
+                        "kanji": "不思議"
+                    },
+                    {
+                        "romaji": "bana",
+                        "kana": "バナ",
+                        "kanji": "花"
+                    }
+                ]
+            },
+            "originTags": [
+                "kanji"
+            ]
+        },
+        {
+            "id": 4,
+            "en": "Charmander",
+            "ja": {
+                "romaji": "Hitokage",
+                "kana": "ヒトカゲ",
+                "kanji": "火蜥蜴"
+            },
+            "imageUrl": "/assets/creature/4.svg",
+            "tags": [
+                "gen1"
+            ],
+            "types": [
+                "fire"
+            ],
+            "origin": {
+                "value": "%w means \"fire\" and %w means \"lizard\". It translates to \"fire lizard\".",
+                "words": [
+                    {
+                        "romaji": "\"Hi\"",
+                        "kana": "ヒ",
+                        "kanji": "火"
+                    },
+                    {
+                        "romaji": "\"tokage\"",
+                        "kana": "トカゲ",
+                        "kanji": "蜥蜴"
+                    }
+                ]
+            },
+            "originTags": [
+                "kanji"
+            ]
+        },
+        {
+            "id": 5,
+            "en": "Charmeleon",
+            "ja": {
+                "romaji": "Rizaado",
+                "kana": "リザード"
+            },
+            "imageUrl": "/assets/creature/5.svg",
+            "tags": [
+                "gen1"
+            ],
+            "types": [
+                "fire"
+            ],
+            "origin": {
+                "value": "Derived from the English word \"lizard\", written in katakana as リザード.",
+                "words": []
+            },
+            "originTags": [
+                "english"
+            ]
+        },
+        {
+            "id": 6,
+            "en": "Charizard",
+            "ja": {
+                "romaji": "Rizaadon",
+                "kana": "リザードン"
+            },
+            "imageUrl": "/assets/creature/6.svg",
+            "tags": [
+                "gen1"
+            ],
+            "types": [
+                "fire"
+            ],
+            "origin": {
+                "value": "A combination of \"lizard\" (リザード) and the suffix \"don\" (ドン), often used for large or strong creatures.",
+                "words": []
+            },
+            "originTags": [
+                "english"
+            ]
+        },
+        {
+            "id": 7,
+            "en": "Squirtle",
+            "ja": {
+                "romaji": "Zenigame",
+                "kana": "ゼニガメ",
+                "kanji": "銭亀"
+            },
+            "imageUrl": "/assets/creature/7.svg",
+            "tags": [
+                "gen1"
+            ],
+            "types": [
+                "water"
+            ],
+            "origin": {
+                "value": "A %w is a young Japanese pond turtle. It's round shell ressembles a %w edo period coin.",
+                "words": [
+                    {
+                        "romaji": "\"zenigame\"",
+                        "kana": "ゼニガメ",
+                        "kanji": "銭亀"
+                    },
+                    {
+                        "romaji": "\"sen\"",
+                        "kana": "セン",
+                        "kanji": "銭"
+                    }
+                ]
+            },
+            "originTags": [
+                "kanji"
+            ]
+        },
+        {
+            "id": 8,
+            "en": "Wartortle",
+            "ja": {
+                "romaji": "Kameeru",
+                "kana": "カメール"
+            },
+            "imageUrl": "/assets/creature/8.svg",
+            "tags": [
+                "gen1"
+            ],
+            "types": [
+                "water"
+            ],
+            "origin": {
+                "value": "A combination of %w which means turtle and either \"mail\" in English or \"mer\" in French.",
+                "words": [
+                    {
+                        "romaji": "\"kame\"",
+                        "kana": "カメ",
+                        "kanji": "亀"
+                    }
+                ]
+            },
+            "originTags": [
+                "english",
+                "french"
+            ]
+        },
+        {
+            "id": 9,
+            "en": "Blastoise",
+            "ja": {
+                "romaji": "Kamekkusu",
+                "kana": "カメックス"
+            },
+            "imageUrl": "/assets/creature/9.svg",
+            "tags": [
+                "gen1"
+            ],
+            "types": [
+                "water"
+            ],
+            "origin": {
+                "value": "A combination of %w which means turtle and either \"X\" in Japanese, \"max\" in English or \"rex\" in Latin.",
+                "words": [
+                    {
+                        "romaji": "\"kame\"",
+                        "kana": "カメ",
+                        "kanji": "亀"
+                    }
+                ]
+            },
+            "originTags": [
+                "english",
+                "latin"
+            ]
+        },
+        {
+            "id": 10,
+            "en": "Caterpie",
+            "ja": {
+                "romaji": "Kyatapii",
+                "kana": "キャタピー"
+            },
+            "imageUrl": "/assets/creature/10.svg",
+            "tags": [
+                "gen1"
+            ],
+            "types": [
+                "bug"
+            ],
+            "origin": {
+                "value": "Derived from the English word \"caterpillar\", written in katakana as キャタピラー.",
+                "words": []
+            },
+            "originTags": [
+                "english"
+            ]
+        },
+        {
+            "id": 11,
+            "en": "Metapod",
+            "ja": {
+                "romaji": "Toranseru",
+                "kana": "トランセル"
+            },
+            "imageUrl": "/assets/creature/11.svg",
+            "tags": [
+                "gen1"
+            ],
+            "types": [
+                "bug"
+            ],
+            "origin": {
+                "value": "A combination of the English words \"transformation\" (トランスフォーメーション) and either \"shell\" (シェル) or \"cell\" (セル).",
+                "words": []
+            },
+            "originTags": [
+                "english"
+            ]
+        },
+        {
+            "id": 12,
+            "en": "Butterfree",
+            "ja": {
+                "romaji": "Batafurii",
+                "kana": "バタフリー"
+            },
+            "imageUrl": "/assets/creature/12.svg",
+            "tags": [
+                "gen1"
+            ],
+            "types": [
+                "bug",
+                "flying"
+            ],
+            "origin": {
+                "value": "A combination of the English words \"butterfly\" (バタフライ) and \"free\" (フリー).",
+                "words": []
+            },
+            "originTags": [
+                "english"
+            ]
+        },
+        {
+            "id": 13,
+            "en": "Weedle",
+            "ja": {
+                "romaji": "Biidoru",
+                "kana": "ビードル"
+            },
+            "imageUrl": "/assets/creature/13.svg",
+            "tags": [
+                "gen1"
+            ],
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "origin": {
+                "value": "A combination of the English words \"bee\" (ビー) and \"needle\" (ニードル).",
+                "words": []
+            },
+            "originTags": [
+                "english"
+            ]
+        },
+        {
+            "id": 14,
+            "en": "Kakuna",
+            "ja": {
+                "romaji": "Kokuun",
+                "kana": "コクーン"
+            },
+            "imageUrl": "/assets/creature/14.svg",
+            "tags": [
+                "gen1"
+            ],
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "origin": {
+                "value": "Derived from the English word \"cocoon\" (コクーン).",
+                "words": []
+            },
+            "originTags": [
+                "english"
+            ]
+        },
+        {
+            "id": 15,
+            "en": "Beedrill",
+            "ja": {
+                "romaji": "Supiaa",
+                "kana": "スピアー"
+            },
+            "imageUrl": "/assets/creature/15.svg",
+            "tags": [
+                "gen1"
+            ],
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "origin": {
+                "value": "Derived from the English word \"spear\" (スピア). It is also an anagram of \"apis\" (アピス), the genus of the honey bee.",
+                "words": []
+            },
+            "originTags": [
+                "english"
+            ]
+        },
+        {
+            "id": 16,
+            "en": "Pidgey",
+            "ja": {
+                "romaji": "Poppo",
+                "kana": "ポッポ"
+            },
+            "imageUrl": "/assets/creature/16.svg",
+            "tags": [
+                "gen1"
+            ],
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "origin": {
+                "value": "Onomatopoeia for the cry of a pigeon in Japanese.",
+                "words": []
+            },
+            "originTags": [
+                "onomatopoeia"
+            ]
+        },
+        {
+            "id": 17,
+            "en": "Pidgeotto",
+            "ja": {
+                "romaji": "Pijyon",
+                "kana": "ピジョン"
+            },
+            "imageUrl": "/assets/creature/17.svg",
+            "tags": [
+                "gen1"
+            ],
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "origin": {
+                "value": "Derived from the English word \"pigeon\" (ピジョン).",
+                "words": []
+            },
+            "originTags": [
+                "english"
+            ]
+        },
+        {
+            "id": 18,
+            "en": "Pidgeot",
+            "ja": {
+                "romaji": "Pijyotto",
+                "kana": "ピジョット"
+            },
+            "imageUrl": "/assets/creature/18.svg",
+            "tags": [
+                "gen1"
+            ],
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "origin": {
+                "value": "A combination of the English words \"pigeon\" (ピジョン) and either \"parrot\" (パロット) or \"jet\" (ジェット).",
+                "words": []
+            },
+            "originTags": [
+                "english"
+            ]
+        },
+        {
+            "id": 19,
+            "en": "Rattata",
+            "ja": {
+                "romaji": "Koratta",
+                "kana": "コラッタ"
+            },
+            "imageUrl": "/assets/creature/19.svg",
+            "tags": [
+                "gen1"
+            ],
+            "types": [
+                "normal"
+            ],
+            "origin": {
+                "value": "Derived from it's evolution ラッタ. In Japanese baby animals are prefixed with コ (小) which would translates to \"baby ラッタ\" here.",
+                "words": []
+            },
+            "originTags": [
+                "kanji",
+                "english"
+            ]
+        },
+        {
+            "id": 20,
+            "en": "Raticate",
+            "ja": {
+                "romaji": "Ratta",
+                "kana": "ラッタ"
+            },
+            "imageUrl": "/assets/creature/20.svg",
+            "tags": [
+                "gen1"
+            ],
+            "types": [
+                "normal"
+            ],
+            "origin": {
+                "value": "Derived from the English word \"rat\" (ラット).",
+                "words": []
+            },
+            "originTags": [
+                "english"
+            ]
+        }
+    ]
+}
