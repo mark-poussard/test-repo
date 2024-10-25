@@ -1,4 +1,4 @@
-name: Remove branch deployments from GitHub Pages on branch deletion
+name: GitHub Pages - Prune deleted branch
 
 # Ref https://docs.github.com/en/webhooks/webhook-events-and-payloads#delete
 
